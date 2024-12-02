@@ -97,7 +97,7 @@ function func:listfiles(path, type)
 			end
 		end
 		local l = path:gsub("/", "")
-		n = (n or v):gsub(l, "")
+		n = (n or v):sub(#l + 1)
 		table.insert(t, n or v)
 	end
 	return t
