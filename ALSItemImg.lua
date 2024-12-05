@@ -73,5 +73,12 @@ return {
   ["SungDagger"] = "<:ALSSungDagger:1314195678255386635> ",
   ["Emperor Cloak"] = "<:ALSEmperorCloak:1314195730058973214> ",
   ["SoulTokens"] = "<:ALSSoulTokens:1314195734035300352> ",
-  ["SixEyes"] = "<:ALSSixEyes:1314364746568306729> "
+  ["SixEyes"] = "<:ALSSixEyes:1314364746568306729> ",
+  ["Sukuna Finger"] = "<:ALSSukunaFinger:1314368495143878656> ",
+  ["Candy"] = "<:ALSCandy:1314368492488626207> ",
+  ["GrimoirePage"] = "<:ALSGrimoirePage:1314368489628237985> ",
+  ["SlimeCapsule"] = "<:ALSSlimeCapsule:1314368481860386866> ",
+  ["SummerCapsule"] = "<:ALSSummerCapsule:1314368479477891213> ",
+  ["Halloween_Capsule"] = "<:ALSHalloween_Capsule:1314368477179416636> ",
+  ["MonsterEssence"] = "<:ALSMonsterEssence:1314368497874239539> "
 }
