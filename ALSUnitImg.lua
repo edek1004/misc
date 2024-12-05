@@ -351,5 +351,8 @@ return {
   ["Starkk"] = "<:ALSStarkk:1314149170176851998> ",
   ["StarkkEvo"] = "<:ALSStarkk:1314149170176851998> ",
   ["Hashirama"] = "<:ALSHashirama:1314149178187710464> ",
-  ["Sengoku (War)"] = "<:ALSSengokuWar:1314152671439097927> "
+  ["Sengoku (War)"] = "<:ALSSengokuWar:1314152671439097927> ",
+  ["Kafka Hibino"] = "<:ALSKafkaHibino:1314153146930696265> ",
+  ["Kafka Transformed"] = "<:ALSKafkaTransformed:1314153145135267851> ",
+  
 }
