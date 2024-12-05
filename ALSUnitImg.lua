@@ -56,7 +56,7 @@ return {
   ["Rimuru (Devil Lord)"] = "<:ALSRimuruDevilLord:1313809416478265374> ",
   ["BloodSung"] = "<:ALSBloodSung:1313809352729165857> ",
   ["SungWinter"] = "<:ALSSungWinter:1313809444227907646> ",
-  ["Trunks"] = "<:ALSTrunksEvo:1313809459386126387> ",
+  ["Trunks"] = "<:ALSTrunks:1314152673771126815> ",
   ["TrunksEvo"] = "<:ALSTrunksEvo:1313809459386126387> ",
   ["EscanorGodly"] = "<:ALSEscanorGodly:1313809370223476746> ",
   ["Mugetsu"] = "<:ALSMugetsu:1313809404486750269> ",
@@ -351,4 +351,5 @@ return {
   ["Starkk"] = "<:ALSStarkk:1314149170176851998> ",
   ["StarkkEvo"] = "<:ALSStarkk:1314149170176851998> ",
   ["Hashirama"] = "<:ALSHashirama:1314149178187710464> ",
+  ["Sengoku (War)"] = "<:ALSSengokuWar:1314152671439097927> "
 }
