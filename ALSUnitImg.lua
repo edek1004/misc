@@ -227,5 +227,7 @@ return {
   ["Skull_Knight"] = "<:ALSSkull_Knight:1314045897394622566> ",
   ["Skull_Knight_Evo"] = "<:ALSSkull_Knight_Evo:1314045900489887744> ",
   ["Ryuk"] = "<:ALSRyuk:1314054468438069289> ",
-  ["RyukEvo"] = "<:ALSRyukEvo:1314053228098486324> "
+  ["RyukEvo"] = "<:ALSRyukEvo:1314053228098486324> ",
+  ["Android21"] = "<:ALSAndroid21:1314106401261486151> ",
+  ["Android21evo"] = "<:ALSAndroid21evo:1314106403970879538> "
 }
