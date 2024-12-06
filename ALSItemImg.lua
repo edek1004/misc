@@ -80,5 +80,6 @@ return {
   ["SlimeCapsule"] = "<:ALSSlimeCapsule:1314368481860386866> ",
   ["SummerCapsule"] = "<:ALSSummerCapsule:1314368479477891213> ",
   ["Halloween_Capsule"] = "<:ALSHalloween_Capsule:1314368477179416636> ",
-  ["MonsterEssence"] = "<:ALSMonsterEssence:1314368497874239539> "
+  ["MonsterEssence"] = "<:ALSMonsterEssence:1314368497874239539> ",
+  ["Hogoyoku"] = "<:ALSHogoyoku:1314560477107589140> "
 }
