@@ -81,5 +81,9 @@ return {
   ["SummerCapsule"] = "<:ALSSummerCapsule:1314368479477891213> ",
   ["Halloween_Capsule"] = "<:ALSHalloween_Capsule:1314368477179416636> ",
   ["MonsterEssence"] = "<:ALSMonsterEssence:1314368497874239539> ",
-  ["Hogoyoku"] = "<:ALSHogoyoku:1314560477107589140> "
+  ["Hogoyoku"] = "<:ALSHogoyoku:1314560477107589140> ",
+  ["Holy_Grail"] = "<:ALSHoly_Grail:1315274661030006857> ",
+  ["Command_Seal"] = "<:ALSCommand_Seal:1315274655128621107> ",
+  ["Mana_Prism"] = "<:ALSMana_Prism:1315274601399586836> ",
+  ["Origin_Clock"] = "<:ALSOrigin_Clock:1315274597574119444> "
 }
