@@ -6,5 +6,11 @@ return {
   "NewEra!",
   "DBUPDPt2!",
   "MasteredUltraInstinct",
-  "TY1MGroup!!"
+  "TY1MGroup!!",
+  "NoLagWow!",
+  "WorldHop!",
+  "FateIsHere!",
+  "SryForDelay!",
+  "LSwat!",
+  "NewLobby!"
 }
