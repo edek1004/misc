@@ -355,5 +355,6 @@ return {
   ["Kafka Hibino"] = "<:ALSKafkaHibino:1314153146930696265> ",
   ["Kafka Transformed"] = "<:ALSKafkaTransformed:1314153145135267851> ",
   ["GonRage"] = "<:ALSGonRage:1314363916507156500> ",
-  ["WhiteBeardEvo"] = "<:ALSWhiteBeardEvo:1314364079992733726> "
+  ["WhiteBeardEvo"] = "<:ALSWhiteBeardEvo:1314364079992733726> ",
+  ["Gilgamesh"] = "<:ALSGilgamesh:1315274659297497178> "
 }
