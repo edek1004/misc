@@ -358,5 +358,7 @@ return {
   ["WhiteBeardEvo"] = "<:ALSWhiteBeardEvo:1314364079992733726> ",
   ["Gilgamesh"] = "<:ALSGilgamesh:1315430112283463690> ",
   ["GilgameshEvo"] = "<:ALSGilgameshEvo:1315430094721912893> ",
-  ["DarkSaber"] = "<:ALSDarkSaber:1315427548548829275> "
+  ["DarkSaber"] = "<:ALSDarkSaber:1315427548548829275> ",
+  ["Archer"] = "<:ALSArcher:1316159699674075157> ",
+  ["ArcherEvo"] = "<:ALSArcherEvo:1316159702945763368> "
 }
