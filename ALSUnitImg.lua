@@ -360,5 +360,7 @@ return {
   ["GilgameshEvo"] = "<:ALSGilgameshEvo:1315430094721912893> ",
   ["DarkSaber"] = "<:ALSDarkSaber:1315427548548829275> ",
   ["Archer"] = "<:ALSArcher:1316159699674075157> ",
-  ["ArcherEvo"] = "<:ALSArcherEvo:1316159702945763368> "
+  ["ArcherEvo"] = "<:ALSArcherEvo:1316159702945763368> ",
+  ["Lancer"] = "<:ALSLancer:1316917519369637888> ",
+  ["LancerShiny"] = "<:ALSLancerShiny:1316917522863489054> "
 }
