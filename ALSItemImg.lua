@@ -85,5 +85,6 @@ return {
   ["Holy_Grail"] = "<:ALSHoly_Grail:1315274661030006857> ",
   ["Command_Seal"] = "<:ALSCommand_Seal:1315274655128621107> ",
   ["Mana_Prism"] = "<:ALSMana_Prism:1315274601399586836> ",
-  ["Origin_Clock"] = "<:ALSOrigin_Clock:1315274597574119444> "
+  ["Origin_Clock"] = "<:ALSOrigin_Clock:1315274597574119444> ",
+  ["BottledIchor"] = "<:ALSBottledIchor:1317071497461891153> "
 }
