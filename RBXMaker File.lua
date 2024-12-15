@@ -80,6 +80,9 @@ function func:listfiles(path, type)
 		if v:sub(1, 1) == "." then
 			n = v:sub(2, #v)
 		end
+		if (n or v):find([[workspace\]]) then
+			n = (n or v):split([[workspace\]])[2]
+		end
 		if (n or v):find("/") then
 			n = (n or v):gsub("/", "")
 		end
