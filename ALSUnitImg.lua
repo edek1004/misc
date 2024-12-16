@@ -363,6 +363,9 @@ return {
   ["ArcherEvo"] = "<:ALSArcherEvo:1316159702945763368> ",
   ["Lancer"] = "<:ALSLancer:1316917519369637888> ",
   ["LancerShiny"] = "<:ALSLancerShiny:1316917522863489054> ",
-  ["Ainz"] = "<:ALSAinz:1318208757716484147> ",
-  ["Makima"] = "<:ALSMakima:1318207022860206151> "
+  ["Ainz"] = "<:ALSAinz:1318350266537480263> ",
+  ["Makima"] = "<:ALSMakima:1318207022860206151> ",
+  ["Giorno_GER"] = "<:ALSGiorno_GER:1318350255405793350> ",
+  ["Denji_Demon"] = "<:ALSDenji_Demon:1318350253136805978> ",
+  ["Rudeus"] = "<:ALSRudeus:1318350257964318760> "
 }
