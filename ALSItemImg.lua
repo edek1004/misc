@@ -86,5 +86,7 @@ return {
   ["Command_Seal"] = "<:ALSCommand_Seal:1315274655128621107> ",
   ["Mana_Prism"] = "<:ALSMana_Prism:1315274601399586836> ",
   ["Origin_Clock"] = "<:ALSOrigin_Clock:1315274597574119444> ",
-  ["BottledIchor"] = "<:ALSBottledIchor:1317071497461891153> "
+  ["BottledIchor"] = "<:ALSBottledIchor:1317071497461891153> ",
+  ["BossRushTokens"] = "<:ALSBossRushTokens:1318120719871377479> ",
+  ["SkinTickets"] = "<:ALSSkinTickets:1318120716591300609> "
 }
