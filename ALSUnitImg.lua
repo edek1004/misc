@@ -363,5 +363,6 @@ return {
   ["ArcherEvo"] = "<:ALSArcherEvo:1316159702945763368> ",
   ["Lancer"] = "<:ALSLancer:1316917519369637888> ",
   ["LancerShiny"] = "<:ALSLancerShiny:1316917522863489054> ",
-  ["Ainz"] = "<:ALSAinz:1318122129648259125> "
+  ["Ainz"] = "<:ALSAinz:1318208757716484147> ",
+  ["Makima"] = "<:ALSMakima:1318207022860206151> "
 }
