@@ -75,8 +75,8 @@ end
 function func:listfiles(path, type)
 	assert(typeof(path) == "string", "Unable to concat: " .. tostring(path) .. " not string")
 	local t = {}
-	local n = nil
 	for i, v in next, listfiles(path) do
+		local n = nil
 		if v:sub(1, 1) == "." then
 			n = v:sub(2, #v)
 		end
