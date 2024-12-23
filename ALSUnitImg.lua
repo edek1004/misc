@@ -367,5 +367,7 @@ return {
   ["Makima"] = "<:ALSMakima:1318207022860206151> ",
   ["Giorno_GER"] = "<:ALSGiorno_GER:1318350255405793350> ",
   ["Denji_Demon"] = "<:ALSDenji_Demon:1318350253136805978> ",
-  ["Rudeus"] = "<:ALSRudeus:1318350257964318760> "
+  ["Rudeus"] = "<:ALSRudeus:1318350257964318760> ",
+  ["Goku_Halo"] = "<:ALSGoku_Halo:1320903451651215410> ",
+  ["JinMori"] = "<:ALSJinMori:1320903453794631712> "
 }
