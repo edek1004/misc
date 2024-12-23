@@ -88,5 +88,7 @@ return {
   ["Origin_Clock"] = "<:ALSOrigin_Clock:1315274597574119444> ",
   ["BottledIchor"] = "<:ALSBottledIchor:1317071497461891153> ",
   ["BossRushTokens"] = "<:ALSBossRushTokens:1318120719871377479> ",
-  ["SkinTickets"] = "<:ALSSkinTickets:1318120716591300609> "
+  ["SkinTickets"] = "<:ALSSkinTickets:1318120716591300609> ",
+  ["WinterEssence"] = "<:ALSWinterEssence:1320873056478167113> ",
+  ["Snowflakes"] = "<:ALSSnowflakes:1320873053130850396> "
 }
