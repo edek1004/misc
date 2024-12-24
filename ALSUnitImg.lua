@@ -371,5 +371,6 @@ return {
   ["Goku_Halo"] = "<:ALSGoku_Halo:1320903451651215410> ",
   ["JinMori"] = "<:ALSJinMori:1320903453794631712> ",
   ["JinMoriEvo"] = "<:ALSJinMoriEvo:1320931594269102120> ",
-  ["Gogeta"] = "<:ALSGogeta:1320966789051580436> "
+  ["Gogeta"] = "<:ALSGogeta:1320966789051580436> ",
+  ["Vegeta_Halo"] = "<:ALSVegeta_Halo:1320978229032386602> "
 }
