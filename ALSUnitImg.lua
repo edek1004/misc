@@ -370,5 +370,6 @@ return {
   ["Rudeus"] = "<:ALSRudeus:1318350257964318760> ",
   ["Goku_Halo"] = "<:ALSGoku_Halo:1320903451651215410> ",
   ["JinMori"] = "<:ALSJinMori:1320903453794631712> ",
-  ["JinMoriEvo"] = "<:ALSJinMoriEvo:1320931594269102120> "
+  ["JinMoriEvo"] = "<:ALSJinMoriEvo:1320931594269102120> ",
+  ["Gogeta"] = "<:ALSGogeta:1320966789051580436> "
 }
