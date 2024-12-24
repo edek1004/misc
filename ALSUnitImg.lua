@@ -372,5 +372,6 @@ return {
   ["JinMori"] = "<:ALSJinMori:1320903453794631712> ",
   ["JinMoriEvo"] = "<:ALSJinMoriEvo:1320931594269102120> ",
   ["Gogeta"] = "<:ALSGogeta:1320966789051580436> ",
-  ["Vegeta_Halo"] = "<:ALSVegeta_Halo:1320978229032386602> "
+  ["Vegeta_Halo"] = "<:ALSVegeta_Halo:1320978229032386602> ",
+  ["JinMoriGodly"] = "<:ALSJinMoriGodly:1321075330932543518> "
 }
