@@ -101,6 +101,9 @@ function func:listfiles(path, type)
 		end
 		local l = path:gsub("/", "")
 		n = (n or v):sub(#l + 1)
+		if table.find({".txt", ".rtf"}, (n or v):sub(#(n or v) - 3, #(n or v))) then
+            continue
+        end
 		table.insert(t, n or v)
 	end
 	return t
