@@ -374,5 +374,13 @@ return {
   ["Gogeta"] = "<:ALSGogeta:1320966789051580436> ",
   ["Vegeta_Halo"] = "<:ALSVegeta_Halo:1320978229032386602> ",
   ["JinMoriGodly"] = "<:ALSJinMoriGodly:1321075330932543518> ",
-  ["Douma"] = "<:ALSDouma:1321224413965848596> "
+  ["Douma"] = "<:ALSDouma:1321224413965848596> ",
+  ["Emilia"] = "<:ALSEmilia:1321677759013060608> ",
+  ["EmiliaShiny"] = "<:ALSEmiliaShiny:1321677695842783304> ",
+  ["Ragna"] = "<:ALSRagna:1321677707339370558> ",
+  ["RagnaEvo"] = "<:ALSRagnaEvo:1321677710799671316> ",
+  ["Toshiro"] = "<:ALSToshiro:1321677732605857862> ",
+  ["ToshiroEvo"] = "<:ALSToshiroEvo:1321677737991213056> ",
+  ["Grey"] = "<:ALSGrey:1321677698182938694> ",
+  ["GreyEvo"] = "<:ALSGreyEvo:1321677700384952463> "
 }
